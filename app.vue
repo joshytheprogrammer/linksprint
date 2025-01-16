@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="min-h-screen bg-gray-100 p-4 font-poppins">
     <NuxtPage />
   </div>
 </template>
